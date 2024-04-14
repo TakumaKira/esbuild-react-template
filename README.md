@@ -15,7 +15,7 @@ If you are willing to follow, please [install pnpm](https://pnpm.io/installation
 
 - You can run a development server with `pnpm dev`
 - You can build a compiled version inside `/public/bundle` directory, which is shared with the development server with `pnpm build`.
-- The commands above should be ultra-fast!
+- The commands above should be ultra-fast!🚀
 
 ## How to Use
 
